@@ -1,4 +1,4 @@
-# good-project
+# The Good Project
 The Good Project
 
 Government agencies spend millions annually on fragmented, expensive cloud storage while struggling to provide transparent, accessible public data. Current solutions create vendor lock-in and require technical expertise that most civic organizations don't possess.
